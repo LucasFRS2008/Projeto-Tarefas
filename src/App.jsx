@@ -1,10 +1,10 @@
-import React from 'react'
+import Tarefas from './componentes/Tarefa'
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Tarefas/>
+    </>
   )
 }
 
